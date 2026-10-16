@@ -3,3 +3,4 @@ find
 rmdir website/
 cd images
 ls --color=auto
+mv header.png ..
