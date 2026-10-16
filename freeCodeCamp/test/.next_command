@@ -9,3 +9,20 @@ cd ..
 ls --color=auto
 find --name images
 find -name images
+cd client/
+ls --color=auto
+cd assets/
+ls --color=auto
+cd ..
+cd src
+ls --color=auto
+cd ..
+cd assets/
+mkdir images
+touch background.jpg
+cd ../../..
+cd website/
+ls --color=auto
+find --name images
+find -name images
+mv header.png client/assets/images/
