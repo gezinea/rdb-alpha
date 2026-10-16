@@ -150,3 +150,4 @@ echo I made this boilerplate >> README.md
 __vsc_prompt_cmd_original
 more README.md
 echo from the command line >> README.md
+more README.md
