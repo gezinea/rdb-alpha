@@ -2,3 +2,4 @@ mv website/background.jpg website/images .
 find
 rmdir website/
 cd images
+ls --color=auto
